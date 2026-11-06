@@ -1,15 +1,15 @@
 {
   "schema": 1,
   "channel": "stable",
-  "release_seq": 2,
-  "version": "20261106",
+  "release_seq": 3,
+  "version": "20261107",
   "severity": "normal",
   "rollback_safe": true,
   "db_schema": 41,
-  "artifact_url": "https://github.com/orizuru-works/sekisho-releases/releases/download/server-v20261106/server-release-20261106.tgz",
-  "sha256": "9c1c259cc09b6195a4f22f0efbc275e12db91187735012707c736fe2b3f7ec5c",
-  "size": 26420435,
-  "published_at": "2026-11-06T10:40:41Z",
-  "notes": "管理サーバー更新確認(通知のみ)を追加。署名済みフィードの取得・検証と、古いリリース番号の再送拒否。",
+  "artifact_url": "https://github.com/orizuru-works/sekisho-releases/releases/download/server-v20261107/server-release-20261107.tgz",
+  "sha256": "6d8feca4eb5af19c551f06ec01b5d5aded239accc0042626197eb017333e5c07",
+  "size": 26422145,
+  "published_at": "2026-11-06T10:43:34Z",
+  "notes": "更新確認のCDNキャッシュ回避、確認時刻のJST表示、版のビルド埋め込み。",
   "key_id": "rel-2026"
 }
