@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "release_seq": 1,
+  "version": "20261106",
+  "severity": "normal",
+  "rollback_safe": true,
+  "db_schema": 41,
+  "artifact_url": "https://github.com/orizuru-works/sekisho-releases/releases/download/server-v20261106/server-release-20261106.tgz",
+  "sha256": "9c1c259cc09b6195a4f22f0efbc275e12db91187735012707c736fe2b3f7ec5c",
+  "size": 26420435,
+  "published_at": "2026-11-06T10:38:17Z",
+  "notes": "管理サーバー更新確認(通知のみ)を追加。署名済みフィードの取得・検証と、古いリリース番号の再送拒否。",
+  "key_id": "rel-2026"
+}
